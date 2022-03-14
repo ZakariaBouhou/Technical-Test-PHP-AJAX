@@ -20,6 +20,6 @@ Inside this file, declare a function to select a container in index.html and add
 
 Last function to create Cards and foreach some elements in data PHP keeped on function js (see step 2)
 
-Note : The last function is not efficient although that works
+Note : The last function is not efficient although that works  
 Note* : Sorry for my english. I learned it
 
